@@ -24,7 +24,7 @@ Then run e.g. `bundle exec episode_1.rb` to run the companion script for the epi
 Some notes about these scripts:
 
 - They're designed to be run repeatedly, so with each invocation they drop and re-create their respective database tables, then fill them with the sample data.
-- They're not intended to output anything. If you want to play around, drop some `puts` lines or debugger statements wherever you like, or give the fancy [Seeing Is Believing][seeing_is_believing] gem a go.
+- They're not intended to output anything. If you want to play around, drop some `puts` lines or debugger statements wherever you like, or give the fancy [Seeing Is Believing][seeing_is_believing] gem a go, along with an editor integration.
 
 Enjoy!
 
