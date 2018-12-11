@@ -1,6 +1,6 @@
 require "bundler/setup"
+require "rom"
 require "rom/sql"
-require "rom/repository"
 require "time_math"
 
 # Configure database URL
