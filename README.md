@@ -3,13 +3,15 @@
 These scripts accompany my 3-part [RubyTapas][rubytapas] series on [rom-rb][rom-rb]:
 
 1. [Getting started with rom-rb][ep1] — [episode_1.rb][ep1_script]
-2. Writing changes with rom-rb (yet to be published)
+2. [Writing changes with rom-rb][ep2] — [episode_2.rb][ep2_script]
 3. Building queries with rom-rb (yet to be published)
 
 [rubytapas]: https://www.rubytapas.com/
 [rom-rb]: https://rom-rb.org/
 [ep1]: https://www.rubytapas.com/2018/12/03/getting-started-with-rom-rb/
+[ep2]: https://www.rubytapas.com/2018/12/11/writing-changes-with-rom-rb/
 [ep1_script]: /episode_1.rb
+[ep2_script]: /episode_2.rb
 
 ## Setup
 
