@@ -4,7 +4,7 @@ These scripts accompany my 3-part [RubyTapas][rubytapas] series on [rom-rb][rom-
 
 1. [Getting started with rom-rb][ep1] — [episode_1.rb][ep1_script]
 2. [Writing changes with rom-rb][ep2] — [episode_2.rb][ep2_script]
-3. [Building queries with rom-rb][ep3] - [episode_3.rb][ep3_script]
+3. [Building queries with rom-rb][ep3] — [episode_3.rb][ep3_script]
 
 [rubytapas]: https://www.rubytapas.com/
 [rom-rb]: https://rom-rb.org/
